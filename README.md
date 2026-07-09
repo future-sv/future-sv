@@ -9,9 +9,10 @@
 
 # About Me
 
-Hi! I'm **Vanshika Bhamidipati**, a Computer Science student at **Rensselaer Polytechnic Institute**.
-
-I'm passionate about building software that combines **Artificial Intelligence**, **Full-Stack Development**, and **Software Engineering**.
+- 🎓 Computer Science student at RPI
+- 🤖 Interested in AI, Machine Learning, and Full-Stack Development
+- 💻 Building projects with Python, JavaScript, React, and Flask
+- 🌱 Currently learning Quantum Computing and scalable AI systems
 
 Currently I'm focusing on:
 
