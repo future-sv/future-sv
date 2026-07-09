@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=22,24,25&text=Vanshika%20Bhamidipati&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Computer%20Science%20Student%20@%20RPI&descAlignY=62&animation=fadeIn" width="100%"/>
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Vanshika%20Bhamidipati&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20@%20RPI&descAlignY=63&descFontColor=F8FAFC&color=0:0B3A63,35:3D6F96,70:A9C3DD,100:F4F8FC" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=355C8C&center=true&vCenter=true&width=800&lines=AI+%7C+Full-Stack+Developer;Computer+Science+Student;Building+Software+with+Real-World+Impact"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1500&color=1D4E89&center=true&vCenter=true&width=900&lines=AI+%7C+Full-Stack+Developer;Software+Engineering;Machine+Learning;Always+Learning+Something+New"/>
+
 </div>
-
 ---
 
 # About Me
