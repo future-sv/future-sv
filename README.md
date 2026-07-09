@@ -8,7 +8,7 @@
 
 ---
 
-# 👋 About Me
+# About Me
 
 Hi! I'm **Vanshika Bhamidipati**, a Computer Science student at **Rensselaer Polytechnic Institute**.
 
@@ -24,7 +24,7 @@ Currently I'm focusing on:
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -34,7 +34,7 @@ Currently I'm focusing on:
 
 ---
 
-# 🌐 Connect
+# Connect
 
 <p align="center">
 
@@ -52,7 +52,7 @@ Currently I'm focusing on:
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -64,7 +64,7 @@ Currently I'm focusing on:
 
 ---
 
-# 🔥 Contribution Streak
+# Contribution Streak
 
 <p align="center">
 
@@ -74,7 +74,7 @@ Currently I'm focusing on:
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -84,7 +84,7 @@ Currently I'm focusing on:
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
 
@@ -94,7 +94,7 @@ Currently I'm focusing on:
 
 ---
 
-# ⭐ Featured Projects
+# Featured Projects
 
 Coming soon...
 
