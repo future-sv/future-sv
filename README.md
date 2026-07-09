@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,30&text=Vanshika%20Bhamidipati&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Science%20Student%20@%20RPI&descAlignY=62&animation=fadeIn" width="100%" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=22,24,25&text=Vanshika%20Bhamidipati&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Computer%20Science%20Student%20@%20RPI&descAlignY=62&animation=fadeIn" width="100%"/>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=5FA8D3&center=true&vCenter=true&width=850&lines=AI+%7C+Full-Stack+Developer;Building+AI-powered+applications;Computer+Science+Student;Always+learning+something+new"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=355C8C&center=true&vCenter=true&width=800&lines=AI+%7C+Full-Stack+Developer;Computer+Science+Student;Building+Software+with+Real-World+Impact"/>
 </div>
 
 ---
