@@ -9,18 +9,18 @@
 
 # About Me
 
-- 🎓 Computer Science student at RPI
-- 🤖 Interested in AI, Machine Learning, and Full-Stack Development
-- 💻 Building projects with Python, JavaScript, React, and Flask
-- 🌱 Currently learning Quantum Computing and scalable AI systems
+- Computer Science student at RPI
+- Interested in AI, Machine Learning, and Full-Stack Development
+- Building projects with Python, JavaScript, React, and Flask
+- Currently learning Quantum Computing and scalable AI systems
 
 Currently I'm focusing on:
 
-- 🤖 Artificial Intelligence
-- 💻 Full-Stack Web Development
-- ⚛️ Quantum Computing
-- 🚀 Open Source
-- 📚 Continuous Learning
+- Artificial Intelligence
+- Full-Stack Web Development
+- Quantum Computing
+- Open Source
+- Continuous Learning
 
 ---
 
@@ -96,12 +96,11 @@ Currently I'm focusing on:
 
 # Featured Projects
 
-Coming soon...
 
-- 🤖 Veritas AI
-- 💬 AI Discord Bot
-- 🌎 NASA Outbreak Visualization
-- ⚛️ Quantum Intrusion Detection
+- Veritas AI
+- AI Discord Bot
+- NASA Outbreak Visualization
+- Quantum Intrusion Detection
 
 ---
 
